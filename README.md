@@ -24,6 +24,7 @@ Campos:
 * 'sun_needs' : cantidad de luz necesaria para el crecimiento de la flor.
 * 'water_needs' : cantidad de agua necesaria para el crecimiento de la flor.
 * 'maintenance': grado de dificultad referente al mantenimiento de la flor.
+* 'images': un listado (separado por coma) de las diferentes imágenes de la flor (las cuales se pueden encontrar en el subdirectorio  "images").
 
 ## 4. Agradecimientos. 
 
