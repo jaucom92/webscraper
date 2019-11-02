@@ -6,6 +6,8 @@ El código presentado (webscraper.py) extrae información referente a una base d
 
 Después de la ejecución del código, se genera un ".csv" en el directorio de trabajo con la información recopilada.
 
+Además, se extrae un seguido de imágenes de cada flor; las cuales son guardadas en el subdirectorio "images" (adjunto un .rar con el contenido de este subdirectorio como ejemplo)
+
 ## 2. Título
 
 Flower_dataset.csv
